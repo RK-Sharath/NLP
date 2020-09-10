@@ -2,7 +2,7 @@
 
 `This notebook was created by Neha from IBM.`
 
-`Please refer to the [TextCodeBook](https://github.com/RK-Sharath/NLP/blob/master/NLP-Pipeline-Part-1.ipynb) in Jupyter Notebook explaining the Basic NLP Pipeline and IBM Watson Natural Understanding. The Notebook will not only give Theoretical knowledge of Concepts but also the Hands-on Practise excercise for better understanding of the concepts.`
+Please refer to the [TextCodeBook](https://github.com/RK-Sharath/NLP/blob/master/NLP-Pipeline-Part-1.ipynb) in Jupyter Notebook explaining the Basic NLP Pipeline and IBM Watson Natural Understanding. The Notebook will not only give Theoretical knowledge of Concepts but also the Hands-on Practise excercise for better understanding of the concepts.
 
 ### What is NLP?
 
