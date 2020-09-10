@@ -1,3 +1,11 @@
+# CBSE_Article_NLP_Pipeline 
+
+`This notebook has been created by Neha from IBM.`
+
+`I recommend to read this article in the notebook. I have created a
+[TextCodeBook](https://github.com/RK-Sharath/NLP/blob/master/NLP-Pipeline-Part-1.ipynb) in 
+Jupyter Notebook explaining the Basic NLP Pipeline and IBM Watson Natural Understanding. The Notebook will not only give Theoretical knowledge of Concepts but also the Hands-on Practise excercise for better understanding of the concepts.`
+
 ### What is NLP?
 
 Natural Language Processing.
